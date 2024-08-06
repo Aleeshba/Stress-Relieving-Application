@@ -3,3 +3,4 @@ lib/
 Main.exe
 *.dll
 Videos/
+*.docx
